@@ -169,5 +169,6 @@ Please open an issue before submitting major changes.
 
 ## Development Status
 
-⚠️ This repository contains the project structure and foundational components of the AAPP-MART engine.  
+⚠️ Early‑stage open source project. Core implementation is still in progress.  
+This repository contains the project structure and foundational components of the AAPP-MART engine.  
 Additional advanced modules and controlled security-testing components will be added progressively as development continues.
