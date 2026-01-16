@@ -2,15 +2,13 @@
 
 <p align="center"><img src="docs/logo/aappmart_logo.png" width="300" alt="AAPP-MART Logo"></p>
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/secwexen/aappmart/build.yml?label=Build)
+![Build](https://img.shields.io/github/actions/workflow/status/secwexen/aappmart/build.yml?label=Build)
 ![Lint](https://img.shields.io/github/actions/workflow/status/secwexen/aappmart/lint.yml?label=Lint)
-![Python Lint](https://img.shields.io/github/actions/workflow/status/secwexen/aappmart/pylint.yml?label=PyLint)
 ![CodeQL](https://img.shields.io/github/actions/workflow/status/secwexen/aappmart/codeql.yml?label=CodeQL)
-![Release](https://img.shields.io/github/v/release/secwexen/aappmart)
-![License](https://img.shields.io/github/license/secwexen/aappmart)
-![Repo Size](https://img.shields.io/github/repo-size/secwexen/aappmart)
-![Python Versions](https://img.shields.io/pypi/pyversions/aappmart)
 ![Coverage](https://img.shields.io/codecov/c/github/secwexen/aappmart)
+![Release](https://img.shields.io/github/v/release/secwexen/aappmart)
+![Python Versions](https://img.shields.io/pypi/pyversions/aappmart)
+![License](https://img.shields.io/github/license/secwexen/aappmart)
 [![Website](https://img.shields.io/website?url=https://secwexen.github.io/aappmart/)](https://secwexen.github.io/aappmart/)
 
 ### Autonomous Attack Path Prediction & Multi-Agent Red Team Engine
@@ -122,7 +120,9 @@ report = engine.get_report()
 print(report)
 ```
 
-> Example usage only. Actual implementation will be added in future releases.
+> ⚠️ Note: Core implementation is still in progress.  
+> Some modules may not be fully functional yet.  
+> This example is for demonstration purposes and to help you get started.  
 
 ---
 
@@ -148,7 +148,7 @@ print(report)
 
 ## License
 
-Apache-2.0 license.  
+This project is licensed under the Apache License, Version 2.0.  
 See the `LICENSE` file for full details.  
 
 ---
@@ -156,7 +156,7 @@ See the `LICENSE` file for full details.
 ## Contributing
 
 Contributions are welcome.  
-Please open an issue before submitting major changes.
+Please open an issue before submitting major changes or new features.
 
 ---
 
@@ -169,15 +169,38 @@ Please open an issue before submitting major changes.
 
 ---
 
-## Disclaimer
+## Development Status
 
-aappmart is intended exclusively for ethical, legal, and professional security research.
-Unauthorized use against systems without explicit permission is illegal and unethical.
+⚠️ Early-stage open source project. Core implementation is still in progress.  
+This repository provides the project structure and foundational components of the AAPP-MART engine.  
+Additional advanced modules and controlled security-testing features will be added progressively.  
 
 ---
 
-## Development Status
+## Ethical Use Statement
 
-⚠️ Early‑stage open source project. Core implementation is still in progress.  
-This repository contains the project structure and foundational components of the AAPP-MART engine.  
-Additional advanced modules and controlled security-testing components will be added progressively as development continues.
+AAPP-MART is designed to help organizations understand and reduce their attack surface
+by simulating adversarial behavior in a controlled and authorized manner.
+Its primary goal is to improve defensive posture, not to facilitate real-world attacks.
+
+---
+
+## Disclaimer
+
+AAPP-MART is intended exclusively for ethical, legal, and authorized security research,
+penetration testing, and defensive security validation.
+
+The use of this tool against systems, networks, or applications without explicit
+authorization from the system owner is strictly prohibited and may be illegal.
+
+The authors and contributors of this project assume no responsibility or liability
+for any misuse, damage, or legal consequences resulting from the use of this software.
+Users are solely responsible for ensuring compliance with all applicable laws,
+regulations, and organizational policies.
+
+---
+
+## Author
+
+**Secwexen**  
+GitHub: [secwexen](https://github.com/secwexen)  
