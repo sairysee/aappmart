@@ -138,6 +138,16 @@ print(report)
 
 ---
 
+## Testing
+
+Run unit tests with:
+
+```bash
+pytest
+```
+
+---
+
 ## Use Cases
 
 - Automated red teaming  
