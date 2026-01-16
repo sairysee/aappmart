@@ -148,7 +148,8 @@ print(report)
 
 ## License
 
-Apache-2.0 license.
+Apache-2.0 license.  
+See the LICENSE file for full details.  
 
 ---
 
@@ -165,6 +166,13 @@ Please open an issue before submitting major changes.
 - [ ] Cloud environment support
 - [ ] Agent marketplace
 - [ ] Reinforcement learning–based decision engine
+
+---
+
+## Disclaimer
+
+aappmart is intended exclusively for ethical, legal, and professional security research.
+Unauthorized use against systems without explicit permission is illegal and unethical.
 
 ---
 
