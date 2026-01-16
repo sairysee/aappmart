@@ -11,6 +11,8 @@
 ![License](https://img.shields.io/github/license/secwexen/aappmart)
 [![Website](https://img.shields.io/website?url=https://secwexen.github.io/aappmart/)](https://secwexen.github.io/aappmart/)
 
+*An autonomous intelligence engine that thinks like an attacker to protect defenders.*
+
 ### Autonomous Attack Path Prediction & Multi-Agent Red Team Engine
 
 AAPP-MART is an autonomous offensive security engine designed for security teams and researchers.  
