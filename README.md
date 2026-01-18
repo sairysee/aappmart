@@ -265,6 +265,5 @@ For responsible disclosure and reporting security issues, please see [SECURITY.m
 
 ## Author
 
-**Secwexen**  
-Project Author & Maintainer  
+Project Author & Maintainer: **Secwexen**  
 GitHub: [secwexen](https://github.com/secwexen)  
