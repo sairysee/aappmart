@@ -125,7 +125,6 @@ No platform-specific dependencies are required.
 
 ---
 
-
 ## Installation
 
 ```bash
