@@ -125,17 +125,20 @@ No platform-specific dependencies are required.
 
 ---
 
+
 ## Installation
 
 ```bash
+# 1. Clone repository
 git clone https://github.com/secwexen/aappmart
 cd aappmart
 
-# (Optional but recommended) Create a virtual environment
+# 2. (Optional but recommended) Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
 
+# 3. Install dependencies
 pip install -r requirements.txt
 ```
 
