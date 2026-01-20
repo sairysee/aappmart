@@ -129,7 +129,7 @@ No platform-specific dependencies are required.
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/secwexen/aappmart
+git clone https://github.com/secwexen/aappmart.git
 cd aappmart
 
 # 2. (Optional but recommended) Create a virtual environment
