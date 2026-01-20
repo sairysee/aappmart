@@ -140,7 +140,7 @@ print(report)
 ## License
 
 This project is licensed under **Apache License 2.0**.  
-For full details, see the `LICENSE` file in the repository root.  
+For full details, see the [LICENSE](https://github.com/secwexen/aappmart/blob/main/LICENSE) file in the repository root.  
 
 ---
 
@@ -148,7 +148,7 @@ For full details, see the `LICENSE` file in the repository root.
 
 Contributions are welcome.  
 Please open an issue before submitting major changes or new features.  
-Refer to `CONTRIBUTING.md` for detailed guidelines.  
+Refer to [CONTRIBUTING.md](https://github.com/secwexen/aappmart/blob/main/CONTRIBUTING.md) for detailed guidelines.  
 
 ---
 
