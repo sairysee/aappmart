@@ -1,28 +1,55 @@
 [build-system]
-requires = ["setuptools", "wheel"]
+requires = ["setuptools>=68.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "aappmart"
 version = "0.1.0"
 description = "Autonomous Attack Path Prediction & Multi-Agent Red Team Engine"
-authors = [
-    { name = "secwexen" }
-]
 readme = "README.md"
 requires-python = ">=3.10"
 license = { file = "LICENSE" }
 
-dependencies = [
-    "networkx",
-    "numpy",
-    "pandas",
-    "scikit-learn",
-    "fastapi",
-    "uvicorn",
-    "rich",
-    "pyyaml"
+authors = [
+  { name = "secwexen" }
 ]
 
-[tool.setuptools.packages.find]
-where = ["."]
+dependencies = [
+  # Core analytics & graph
+  "networkx>=3.2",
+  "numpy>=1.26",
+  "pandas>=2.1",
+  "scikit-learn>=1.4",
+
+  # API layer
+  "fastapi>=0.110",
+  "uvicorn[standard]>=0.27",
+
+  # Data validation & config
+  "pydantic>=2.6",
+  "pyyaml>=6.0",
+
+  # Networking
+  "requests>=2.31",
+  "httpx>=0.26",
+
+  # CLI / UX / visualization
+  "rich>=13.7",
+  "tqdm>=4.66",
+  "matplotlib>=3.8",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+  "pytest-asyncio>=0.23"
+]
+
+[project.scripts]
+aappmart = "aappmart.main:main"
+
+[tool.setuptools]
+packages = ["aappmart"]
+
+[tool.setuptools.package-data]
+aappmart = ["**/*.json", "**/*.yaml", "**/*.yml", "**/*.md"]
