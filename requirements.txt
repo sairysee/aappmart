@@ -9,3 +9,6 @@ pyyaml
 tqdm
 matplotlib
 requests
+pytest
+pytest-asyncio
+httpx
