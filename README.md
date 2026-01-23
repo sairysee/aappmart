@@ -23,6 +23,9 @@
 
 *An autonomous intelligence engine that thinks like an attacker to protect defenders.*
 
+For a high-level explanation of the project’s purpose and positioning,
+see [ABOUT.md](ABOUT.md).
+
 ### Autonomous Attack Path Prediction & Multi-Agent Red Team Engine
 
 AAPP-MART is an autonomous offensive security engine designed for security teams and researchers.
@@ -273,7 +276,7 @@ pytest
 ## License
 
 This project is licensed under the Apache License, Version 2.0.  
-See the [LICENSE](https://github.com/secwexen/aappmart/blob/main/LICENSE) file for full details.  
+See the [LICENSE](LICENSE) file for full details.  
 
 ---
 
@@ -281,7 +284,7 @@ See the [LICENSE](https://github.com/secwexen/aappmart/blob/main/LICENSE) file f
 
 Contributions are welcome.  
 Please open an issue before submitting major changes or new features.  
-See [CONTRIBUTING.md](https://github.com/secwexen/aappmart/blob/main/CONTRIBUTING.md) for detailed contribution guidelines.  
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines.  
 
 ---
 
@@ -336,7 +339,7 @@ You may also use GitHub Discussions for ideas and general discussions.
 
 ## Security
 
-For responsible disclosure and reporting security issues, please see [SECURITY.md](https://github.com/secwexen/aappmart/blob/main/SECURITY.md).  
+For responsible disclosure and reporting security issues, please see [SECURITY.md](SECURITY.md).  
 
 ---
 
