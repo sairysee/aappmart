@@ -175,3 +175,11 @@ All users must comply with applicable laws and organizational policies.
 
 The AAPP‑MART documentation is continuously updated.  
 New modules, agents, and predictive components will be added as development progresses.  
+
+---
+
+## Author
+
+- Name: Secwexen
+- Role: Lead Dev
+- GitHub: [github.com/secwexen](https://github.com/secwexen)
