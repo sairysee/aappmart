@@ -180,6 +180,6 @@ New modules, agents, and predictive components will be added as development prog
 
 ## Author
 
-- Name: Secwexen
-- Role: Project Manager & Lead Dev
-- GitHub: [github.com/secwexen](https://github.com/secwexen)
+**Secwexen** – Project Author & Maintainer  
+**Role:** Project Manager | Lead Developer   
+**GitHub:** [github.com/secwexen](https://github.com/secwexen)  
