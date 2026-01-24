@@ -190,7 +190,6 @@ Some modules are under active development and may not yet be fully implemented.
 ```
 .
 ├── .github/
-│
 ├── aappmart/
 │   ├── aapp/                  # Attack Path Predictor
 │   ├── agents/                # Autonomous attacker agents
@@ -202,7 +201,6 @@ Some modules are under active development and may not yet be fully implemented.
 │   ├── modules/               # Pluggable engine modules
 │   ├── predictors/            # Prediction logic & models
 │   └── reports/               # Generated reports
-│
 │
 ├── docs/
 ├── examples/
