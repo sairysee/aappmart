@@ -184,22 +184,47 @@ Final Report & Defense Recommendations
 
 ## Directory Structure
 
+The following directory layout shows the planned structure of the project.   
+Some modules are under active development and may not yet be fully implemented.  
+
 ```
-aappmart/
+.
+├── .github/
 │
-├── aapp/                  # Attack Path Predictor
-├── mart/                  # Multi-Agent Red Team
-├── core/                  # Autonomous simulation brain
-├── api/                   # Optional REST API
-├── cli/                   # Command-line interface
-├── data/                  # Sample data & signatures
-├── reports/               # Generated reports
-├── docs/                  # Documentation
-├── tests/                 # Unit tests
-├── scripts/               # Helper scripts
+├── aappmart/
+│   ├── aapp/                  # Attack Path Predictor
+│   ├── agents/                # Autonomous attacker agents
+│   ├── api/                   # Optional REST API
+│   ├── cli/                   # Command-line interface
+│   ├── core/                  # Autonomous simulation brain
+│   ├── data/                  # Sample data & signatures
+│   ├── mart/                  # Multi-Agent Red Team
+│   ├── modules/               # Pluggable engine modules
+│   ├── predictors/            # Prediction logic & models
+│   └── reports/               # Generated reports
+│
+│
+├── docs/
+├── examples/
+├── internal_api/
+├── scripts/
+├── tests/
+├── .gitignore
+├── .pre-commit-config.yaml
+├── ABOUT.md
+├── CHANGELOG.md
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── DISCLAIMER.md
+├── LICENSE
+├── Makefile
+├── README.md
+├── SECURITY.md
+├── main.py
+├── pyproject.toml
+├── requirements-dev.txt
 ├── requirements.txt
-├── setup.py
-└── README.md
+└── setup.py
 ```
 
 ---
