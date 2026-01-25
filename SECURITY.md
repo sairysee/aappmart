@@ -7,9 +7,6 @@ If you discover a security vulnerability in AAPP-MART, please report it responsi
 **Preferred method:**
 - Open a **private GitHub Security Advisory**
 
-Alternatively:
-- Contact the maintainer directly via GitHub
-
 Please **do not disclose security issues publicly** until a fix or mitigation has been released.
 
 ---
