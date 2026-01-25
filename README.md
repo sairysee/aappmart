@@ -272,7 +272,6 @@ from aappmart.core.orchestrator import AAPP_MART
 
 engine = AAPP_MART(target="192.168.1.10")
 engine.run()
-
 report = engine.get_report()
 print(report)
 ```
