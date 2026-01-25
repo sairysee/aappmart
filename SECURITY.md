@@ -1,6 +1,6 @@
 # Security Policy
 
-## Reporting a Vulnerability
+### Reporting a Vulnerability
 
 If you discover a security vulnerability in AAPP-MART, please report it responsibly.
 
